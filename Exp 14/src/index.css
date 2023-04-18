@@ -1,0 +1,47 @@
+
+.card {
+  background-color: #f2baf8;
+  padding: 5px 25px;
+  border-radius: 12px;;
+  width: fit-content;
+  margin: 10px;
+  display: block;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.input {
+  border: 1px solid rgb(206, 201, 201);
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+.card-text {
+  display: inline-block;
+  padding-right: 15px;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  background-color: #c448d4; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.todos {
+  margin-top: 2em;
+}
