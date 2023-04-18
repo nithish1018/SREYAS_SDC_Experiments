@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+  <book category="Fiction">
+    <title>The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <year>1925</year>
+    <price>10.99</price>
+  </book>
+  <book category="Non-Fiction">
+    <title>The Selfish Gene</title>
+    <author>Richard Dawkins</author>
+    <year>1976</year>
+    <price>12.99</price>
+  </book>
+</bookstore>
